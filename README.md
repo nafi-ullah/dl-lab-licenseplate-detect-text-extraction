@@ -1,4 +1,4 @@
-# 🚗 Automatic Number Plate Recognition (ANPR)
+# 🚗 Automatic License Plate Recognition
 ### Deep Learning Project using PyTorch and EasyOCR
 
 This project implements an **Automatic Number Plate Recognition (ANPR)** system that detects and recognizes vehicle license plates from **video feeds or images**.  
